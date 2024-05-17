@@ -2,7 +2,7 @@
   {
     "name": "HOUR OF CODE",
     "desc": "Certificate of completion for successful completion of hour of code and demonstrating an understanding of the basic concepts of Computer Science.",
-    "image": "https://i.postimg.cc/MTM5dgtp/Certification1.png",
+    "image": "https://postimg.cc/47Gp3LrD",
     "links": {
       "view": "https://me-qr.com/cc5cPxtQ"
     }
@@ -11,7 +11,7 @@
   {
     "name": "Introduction to Microsoft PowerPoint",
     "desc": "Certificate of completion On Completing the Course Introduction to Microsoft PowerPoint Number of Training Hours: 4",
-    "image": "Certification2",
+    "image_url": "https://i.postimg.cc/qqRr0hQp/Certification2.png",
     "links": {
       "view": "https://me-qr.com/RL9WCezH"
     }
@@ -20,7 +20,7 @@
   {
     "name": "Introduction in Microsoft Word",
     "desc": "Certificate of completion On Completing the Course Introduction in Microsoft Word Number of Training Hours: 3",
-    "image": "Certification3",
+    "image_url": "/assets/images/certifications/${certification3.image}.png",
     "links": {
       "view": "https://me-qr.com/NyY8OdM9"
     }

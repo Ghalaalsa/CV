@@ -105,7 +105,7 @@ function showCertifications(certifications) {
     certifications.forEach(certification => {
         certificationHTML += `
         <div class="box tilt">
-      <img draggable="false" src="/assets/images/certifications/${certification.image}.png" alt="certification" />
+      <img draggable="false" src="${certification.image_url}" alt="certification" />
       <div class="content">
         <div class="tag">
         <h3>${certification.name}</h3>
@@ -146,7 +146,7 @@ function showProjects(projects) {
     projects.forEach(project => {
         projectHTML += `
         <div class="box tilt">
-      <img draggable="false" src="/assets/images/projects/${project.image}.png" alt="project" />
+      <img draggable="false" src="${project.image_url}" alt="project" />
       <div class="content">
         <div class="tag">
         <h3>${project.name}</h3>
