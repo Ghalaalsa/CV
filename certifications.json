@@ -2,7 +2,7 @@
   {
     "name": "HOUR OF CODE",
     "desc": "Certificate of completion for successful completion of hour of code and demonstrating an understanding of the basic concepts of Computer Science.",
-    "image": "https://postimg.cc/47Gp3LrD",
+    "image_url": "https://i.postimg.cc/MTM5dgtp/Certification1.png",
     "links": {
       "view": "https://me-qr.com/cc5cPxtQ"
     }
@@ -11,7 +11,7 @@
   {
     "name": "Introduction to Microsoft PowerPoint",
     "desc": "Certificate of completion On Completing the Course Introduction to Microsoft PowerPoint Number of Training Hours: 4",
-    "image_url": "https://i.postimg.cc/qqRr0hQp/Certification2.png",
+    "image_url": "https://i.postimg.cc/FHj5wdLk/Certification2.png",
     "links": {
       "view": "https://me-qr.com/RL9WCezH"
     }
@@ -20,7 +20,7 @@
   {
     "name": "Introduction in Microsoft Word",
     "desc": "Certificate of completion On Completing the Course Introduction in Microsoft Word Number of Training Hours: 3",
-    "image_url": "/assets/images/certifications/${certification3.image}.png",
+    "image_url": "https://i.postimg.cc/y8FxnN6v/Certification3.png",
     "links": {
       "view": "https://me-qr.com/NyY8OdM9"
     }
@@ -29,7 +29,7 @@
   {
     "name": "Fundamentals of Management",
     "desc": "Certificate of completion On Completing the Course Fundamentals of Management Number of Training Hours: 3",
-    "image": "Certification4",
+    "image_url": "https://i.postimg.cc/523Yb0cj/Certification4.png",
     "links": {
       "view": "https://me-qr.com/F2pU6bgn"
     }
@@ -38,7 +38,7 @@
   {
     "name": "Executive Assistant series - Positive Interaction",
     "desc": "Certificate of completion On Completing the Course Executive Assistant series - Positive Interaction Number of Training Hours: 20",
-    "image": "Certification5",
+    "image_url": "https://i.postimg.cc/9fDWKFC6/Certification5.png",
     "links": {
       "view": "https://me-qr.com/0tDMjwxw"
       
@@ -48,7 +48,7 @@
   {
     "name": "PCAP: Programming Essentials in Python",
     "desc": "PCAP: Programming Essentials in Python course, provided by Cisco Networking Academy®in collaboration with OpenEDG Python Institute.",
-    "image": "Certification6",
+    "image_url": "https://i.postimg.cc/W1HVGLgX/Certification6.png",
     "links": {
       "view": "https://me-qr.com/T1kI1Z9T"
     }
@@ -57,7 +57,7 @@
   {
     "name": "Web Development Workshop",
     "desc": "Web Development Workshop by the Google Developers Club.",
-    "image": "Certification7",
+    "image_url": "https://i.postimg.cc/CxZXVZns/Certification7.png",
     "links": {
       "view": "https://me-qr.com/kMjzRAT5"
     }
@@ -65,7 +65,7 @@
   {
     "name": "Participation in the Digitize the Future program",
     "desc": "Participation in the Digitize the Future program for high school graduates.",
-    "image": "Certification8",
+    "image_url": "https://i.postimg.cc/nL4dHqFB/Certification8.png",
     "links": {
       "view": "https://me-qr.com/WbLa5a3U"
     }
@@ -74,7 +74,7 @@
   {
     "name": "Training workshop entitled IoT",
     "desc": "A training workshop entitled IoT presented by the Google Developers Club.",
-    "image": "Certification9",
+    "image_url": "https://i.postimg.cc/d0w2jpFZ/Certification9.png",
     "links": {
       "view": "https://me-qr.com/64tXzDD0"
     }
@@ -82,7 +82,7 @@
   {
     "name": "Introduction to IoT",
     "desc": "Cisco Networking Academy Intoduction to IoT Training Course.",
-    "image": "Certification10",
+    "image_url": "https://i.postimg.cc/CKcqHKJ9/Certification10.png",
     "links": {
       "view": "https://me-qr.com/hBs8B33u"
     }
@@ -91,7 +91,7 @@
   {
     "name": "Certificate of Voluntary Participation",
     "desc": "A certificate of voluntary participation provided by the National Platform for Voluntary Work through the implementation of 144 volunteer hours.",
-    "image": "Certification11",
+    "image_url": "https://i.postimg.cc/FKTP63hZ/Certification11.png",
     "links": {
       "view": "https://me-qr.com/EFvCohs8"
     }

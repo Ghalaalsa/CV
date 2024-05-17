@@ -2,7 +2,7 @@
   {
     "name": "AGMNS University system",
     "desc": "Details database development with ER diagrams, table conversion, and SQL implementation for streamlined data management.",
-    "image": "Project1",
+    "image_url": "https://i.postimg.cc/523pHLQV/Project1.png",
     "links": {
       "view": "https://me-qr.com/cQNqWZ8e"
     }
@@ -11,7 +11,7 @@
   {
     "name": "Quick meal",
     "desc": "An online food ordering system for university students and staff, improving order efficiency at campus eateries.",
-    "image": "Project2",
+    "image_url": "https://i.postimg.cc/Qd0kNDvN/Project2.png",
     "links": {
       "view": "https://me-qr.com/yYqLGIBR"
     }
@@ -19,7 +19,7 @@
   {
     "name": "Queue",
     "desc": "Explanation of queues, including basic operations, types, comparison to stacks, and introduction of priority queues and deque with Python examples.",
-    "image": "Project3",
+    "image_url": "https://i.postimg.cc/XJFC561C/Project3.png",
     "links": {
       "view": "https://me-qr.com/aGQe8CPE"
     }
@@ -27,7 +27,7 @@
   {
     "name": "Randomly",
     "desc": "Introduces a project for fair and unbiased selection processes, discussing importance, objectives, and Python implementation with Tkinter.",
-    "image": "Project4",
+    "image_url": "https://i.postimg.cc/6qtyG2Gk/Project4.png",
     "links": {
       "view": "https://me-qr.com/6e0UaoYO"
     }
@@ -35,7 +35,7 @@
   {
     "name": "Amank",
     "desc": "Real-time home intrusion detection using touch sensor technology on door handles for security, utilizing Arduino Uno board, KY-036 touch sensor, and jumper wires.",
-    "image": "Project5",
+    "image_url": "https://i.postimg.cc/2SV3vfVS/Project5.png",
     "links": {
       "view": "https://me-qr.com/juPq8Z4A"
     }
@@ -43,7 +43,7 @@
   {
     "name": "Full Stack Web Development",
     "desc": "Discusses front-end, back-end, and database management in full-stack web development.",
-    "image": "Project6",
+    "image_url": "https://i.postimg.cc/651pB1YJ/Project6.png",
     "links": {
       "view": "https://me-qr.com/5fNyXwKz"
     }
