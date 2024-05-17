@@ -3,7 +3,6 @@
     "name": "HOUR OF CODE",
     "desc": "Certificate of completion for successful completion of hour of code and demonstrating an understanding of the basic concepts of Computer Science.",
     "image": "Certification1",
-    "category": "certification",
     "links": {
       "view": "https://me-qr.com/cc5cPxtQ"
     }
@@ -13,7 +12,6 @@
     "name": "Introduction to Microsoft PowerPoint",
     "desc": "Certificate of completion On Completing the Course Introduction to Microsoft PowerPoint Number of Training Hours: 4",
     "image": "Certification2",
-    "category": "certification",
     "links": {
       "view": "https://me-qr.com/RL9WCezH"
     }
@@ -23,7 +21,6 @@
     "name": "Introduction in Microsoft Word",
     "desc": "Certificate of completion On Completing the Course Introduction in Microsoft Word Number of Training Hours: 3",
     "image": "Certification3",
-    "category": "certification",
     "links": {
       "view": "https://me-qr.com/NyY8OdM9"
     }
@@ -33,7 +30,6 @@
     "name": "Fundamentals of Management",
     "desc": "Certificate of completion On Completing the Course Fundamentals of Management Number of Training Hours: 3",
     "image": "Certification4",
-    "category": "certification",
     "links": {
       "view": "https://me-qr.com/F2pU6bgn"
     }
@@ -43,7 +39,6 @@
     "name": "Executive Assistant series - Positive Interaction",
     "desc": "Certificate of completion On Completing the Course Executive Assistant series - Positive Interaction Number of Training Hours: 20",
     "image": "Certification5",
-    "category": "certification",
     "links": {
       "view": "https://me-qr.com/0tDMjwxw"
       
@@ -54,7 +49,6 @@
     "name": "PCAP: Programming Essentials in Python",
     "desc": "PCAP: Programming Essentials in Python course, provided by Cisco Networking Academy®in collaboration with OpenEDG Python Institute.",
     "image": "Certification6",
-    "category": "certification",
     "links": {
       "view": "https://me-qr.com/T1kI1Z9T"
     }
@@ -64,7 +58,6 @@
     "name": "Web Development Workshop",
     "desc": "Web Development Workshop by the Google Developers Club.",
     "image": "Certification7",
-    "category": "certification",
     "links": {
       "view": "https://me-qr.com/kMjzRAT5"
     }
@@ -73,7 +66,6 @@
     "name": "Participation in the Digitize the Future program",
     "desc": "Participation in the Digitize the Future program for high school graduates.",
     "image": "Certification8",
-    "category": "certification",
     "links": {
       "view": "https://me-qr.com/WbLa5a3U"
     }
@@ -83,7 +75,6 @@
     "name": "Training workshop entitled IoT",
     "desc": "A training workshop entitled IoT presented by the Google Developers Club.",
     "image": "Certification9",
-    "category": "certification",
     "links": {
       "view": "https://me-qr.com/64tXzDD0"
     }
@@ -92,7 +83,6 @@
     "name": "Introduction to IoT",
     "desc": "Cisco Networking Academy Intoduction to IoT Training Course.",
     "image": "Certification10",
-    "category": "certification",
     "links": {
       "view": "https://me-qr.com/hBs8B33u"
     }
@@ -102,7 +92,6 @@
     "name": "Certificate of Voluntary Participation",
     "desc": "A certificate of voluntary participation provided by the National Platform for Voluntary Work through the implementation of 144 volunteer hours.",
     "image": "Certification11",
-    "category": "certification",
     "links": {
       "view": "https://me-qr.com/EFvCohs8"
     }
@@ -112,7 +101,6 @@
     "name": "AGMNS University system",
     "desc": "Details database development with ER diagrams, table conversion, and SQL implementation for streamlined data management.",
     "image": "Project1",
-    "category": "project",
     "links": {
       "view": "https://me-qr.com/cQNqWZ8e"
     }
@@ -122,7 +110,6 @@
     "name": "Quick meal",
     "desc": "An online food ordering system for university students and staff, improving order efficiency at campus eateries.",
     "image": "Project2",
-    "category": "project",
     "links": {
       "view": "https://me-qr.com/yYqLGIBR"
     }
@@ -131,7 +118,6 @@
     "name": "Queue",
     "desc": "Explanation of queues, including basic operations, types, comparison to stacks, and introduction of priority queues and deque with Python examples.",
     "image": "Project3",
-    "category": "project",
     "links": {
       "view": "https://me-qr.com/aGQe8CPE"
     }
@@ -140,7 +126,6 @@
     "name": "Randomly",
     "desc": "Introduces a project for fair and unbiased selection processes, discussing importance, objectives, and Python implementation with Tkinter.",
     "image": "Project4",
-    "category": "project",
     "links": {
       "view": "https://me-qr.com/6e0UaoYO"
     }
@@ -149,7 +134,6 @@
     "name": "Amank",
     "desc": "Real-time home intrusion detection using touch sensor technology on door handles for security, utilizing Arduino Uno board, KY-036 touch sensor, and jumper wires.",
     "image": "Project5",
-    "category": "project",
     "links": {
       "view": "https://me-qr.com/juPq8Z4A"
     }
@@ -158,7 +142,6 @@
     "name": "Full Stack Web Development",
     "desc": "Discusses front-end, back-end, and database management in full-stack web development.",
     "image": "Project6",
-    "category": "project",
     "links": {
       "view": "https://me-qr.com/5fNyXwKz"
     }
