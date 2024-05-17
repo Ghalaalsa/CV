@@ -71,14 +71,18 @@ document.addEventListener('visibilitychange',
 
 
 async function fetchData(type = "skills") {
-    let response
-    type === "skills" ?
-        response = await fetch("skills.json")
-        :
-        response = await fetch("./projects.json")
+    let response;
+    if (type === "skills") {
+        response = await fetch("skills.json");
+    } else if (type === "certifications") {
+        response = await fetch("certifications.json");
+    } else {
+        response = await fetch("projects.json");
+    }
     const data = await response.json();
     return data;
 }
+    
 
 function showSkills(skills) {
     let skillsContainer = document.getElementById("skillsContainer");
@@ -95,8 +99,49 @@ function showSkills(skills) {
     skillsContainer.innerHTML = skillHTML;
 }
 
+function showCertifications(certifications) {
+    let certificationsContainer = document.querySelector("#certification .box-container");
+    let certificationHTML = "";
+    certifications.forEach(certification => {
+        certificationHTML += `
+        <div class="box tilt">
+      <img draggable="false" src="/assets/images/certifications/${certification.image}.png" alt="certification" />
+      <div class="content">
+        <div class="tag">
+        <h3>${certification.name}</h3>
+        </div>
+        <div class="desc">
+          <p>${certification.desc}</p>
+          <div class="btns">
+            <a href="${certification.links.view}" class="btn" target="_blank"><i class="fas fa-eye"></i> View</a>
+          </div>
+        </div>
+      </div>
+    </div>`
+    });
+    certificationsContainer.innerHTML = certificationHTML;
+
+    // <!-- tilt js effect starts -->
+    VanillaTilt.init(document.querySelectorAll(".tilt"), {
+        max: 15,
+    });
+    // <!-- tilt js effect ends -->
+
+    /* ===== SCROLL REVEAL ANIMATION ===== */
+    const srtop = ScrollReveal({
+        origin: 'top',
+        distance: '80px',
+        duration: 1000,
+        reset: true
+    });
+
+    /* SCROLL PROJECTS */
+    srtop.reveal('.certification .box', { interval: 200 });
+
+}
+
 function showProjects(projects) {
-    let projectsContainer = document.querySelector("#work .box-container");
+    let projectsContainer = document.querySelector("#project .box-container");
     let projectHTML = "";
     projects.forEach(project => {
         projectHTML += `
@@ -132,12 +177,16 @@ function showProjects(projects) {
     });
 
     /* SCROLL PROJECTS */
-    srtop.reveal('.work .box', { interval: 200 });
+    srtop.reveal('.project .box', { interval: 200 });
 
 }
 
 fetchData().then(data => {
     showSkills(data);
+});
+
+fetchData("certifications").then(data => {
+    showCertifications(data);
 });
 
 fetchData("projects").then(data => {
@@ -206,7 +255,10 @@ srtop.reveal('.skills .container .bar', { delay: 400 });
 srtop.reveal('.education .box', { interval: 200 });
 
 /* SCROLL PROJECTS */
-srtop.reveal('.work .box', { interval: 200 });
+srtop.reveal('.project .box', { interval: 200 });
+
+/* SCROLL CERTIFICATION */
+srtop.reveal('.certification .box', { interval: 200 });
 
 /* SCROLL CONTACT */
 srtop.reveal('.contact .container', { delay: 400 });

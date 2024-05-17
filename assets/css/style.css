@@ -609,25 +609,25 @@ header .navbar ul li a:hover {
 /* education media queries ends*/
 /* education section ends */
 
-/* work section starts */
-.work {
+/* certification section starts */
+.certification {
   /* background: #010124; */
   background: #fff;
 }
-.work h2 {
+.certification h2 {
   color: #000000;
   padding: 1rem;
 }
-.work .heading span {
+.certification .heading span {
   color: #DDC6A4;
 }
-.work .box-container {
+.certification .box-container {
   display: flex;
   flex-wrap: wrap;
   gap: 1.5rem;
   margin: 2rem;
 }
-.work .box-container .box {
+.certification .box-container .box {
   flex: 1 1 30rem;
   border-radius: 0.5rem;
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
@@ -635,12 +635,12 @@ header .navbar ul li a:hover {
   overflow: hidden;
   height: 30rem;
 }
-.work .box-container .box img {
+.certification .box-container .box img {
   height: 100%;
   width: 100%;
   object-fit: cover;
 }
-.work .box-container .box .content {
+.certification .box-container .box .content {
   height: 100%;
   width: 100%;
   position: absolute;
@@ -650,7 +650,7 @@ header .navbar ul li a:hover {
   display: flex;
   flex-direction: column;
 }
-.work .box-container .box .content .tag {
+.certification .box-container .box .content .tag {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -660,28 +660,28 @@ header .navbar ul li a:hover {
   padding-left: 1rem;
   background: #DDC6A4;
 }
-.work .box-container .box .content .tag h3 {
+.certification .box-container .box .content .tag h3 {
   font-size: 2rem;
 }
-.work .box-container .box:hover .content {
+.certification .box-container .box:hover .content {
   top: 25%;
 }
-.work .desc {
+.certification .desc {
   margin: 2rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
 }
-.work .desc p {
+.certification .desc p {
   font-size: 1.5rem;
 }
-.work .desc .btns {
+.certification .desc .btns {
   display: flex;
   justify-content: space-between;
   width: 100%;
   margin-top: 2rem;
 }
-.work .desc .btns .btn {
+.certification .desc .btns .btn {
   line-height: 0;
   display: inline;
   padding: 1.5rem 2.5rem;
@@ -691,10 +691,98 @@ header .navbar ul li a:hover {
   background: rgb(12, 12, 12);
   margin-right: 2rem;
 }
-.work .desc .btns .btn:hover {
+.certification .desc .btns .btn:hover {
   background: #a3a3a4f5;
 }
-/* work section ends */
+/* certification section ends */
+
+/* project section starts */
+.project {
+  /* background: #010124; */
+  background: #fff;
+}
+.project h2 {
+  color: #000000;
+  padding: 1rem;
+}
+.project .heading span {
+  color: #DDC6A4;
+}
+.project .box-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin: 2rem;
+}
+.project .box-container .box {
+  flex: 1 1 30rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+  position: relative;
+  overflow: hidden;
+  height: 30rem;
+}
+.project .box-container .box img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.project .box-container .box .content {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 85%;
+  left: 0;
+  background: rgba(255, 255, 255, 0.9);
+  display: flex;
+  flex-direction: column;
+}
+.project .box-container .box .content .tag {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 4.5rem;
+  width: 100%;
+  padding-left: 1rem;
+  background: #DDC6A4;
+}
+.project .box-container .box .content .tag h3 {
+  font-size: 2rem;
+}
+.project .box-container .box:hover .content {
+  top: 25%;
+}
+.project .desc {
+  margin: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.project .desc p {
+  font-size: 1.5rem;
+}
+.project .desc .btns {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 2rem;
+}
+.project .desc .btns .btn {
+  line-height: 0;
+  display: inline;
+  padding: 1.5rem 2.5rem;
+  border-radius: 0.5rem;
+  font-size: 1.5rem;
+  color: #fff;
+  background: rgb(12, 12, 12);
+  margin-right: 2rem;
+}
+.project .desc .btns .btn:hover {
+  background: #a3a3a4f5;
+}
+/* project section ends */
+
 
 /* contact section starts */
 .contact {
